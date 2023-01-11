@@ -21,7 +21,7 @@ public class GameController : MonoBehaviour
     List<GameObject> players = new List<GameObject>();
     
 
-    static int[,] players_position;
+    static int[,] players_position; 
     public static int players_turn = 0;//今誰のターンか
     static int[,,] used;
     static List<Vector3> player_destination = new List<Vector3>();
@@ -162,7 +162,7 @@ public class GameController : MonoBehaviour
         Walk(nokori, 1, nexts_index);//無限ループ防止用フラグ
     }
 
-
+    
     private void Walk(int ans, int flg=0, int nexts_index=0){
         int[,] delta = new int[,] {{0,-1}, {1,0}, {0,1}, {-1,0},};
         var bound = tilemap.cellBounds;
@@ -220,6 +220,5 @@ public class GameController : MonoBehaviour
         turn.interactable = false;
         SceneManager.LoadScene("problem");
     }
-
 
 }
