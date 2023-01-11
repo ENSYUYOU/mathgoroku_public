@@ -13,18 +13,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-12-08T19:16:42.533+09:00
-  initializedAtString: 2022-12-08T19:13:01.769+09:00
+  lastUpdatedAtString: 2023-01-11T11:57:05.124+09:00
+  initializedAtString: 2023-01-11T10:53:54.860+09:00
   entries:
-  - path: Assets/Scenes/problem.unity
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Assets/Scenes/problem.unity
-    projectPath: Assets/Scenes/problem.unity
+  - path: Assets/FruitController.cs
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Assets/FruitController.cs
+    projectPath: Assets/FruitController.cs
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/Scenes/SampleScene.unity
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Assets/Scenes/SampleScene.unity
-    projectPath: Assets/Scenes/SampleScene.unity
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/FruitController.cs.meta
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Assets/FruitController.cs.meta
+    projectPath: Assets/FruitController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/GameController.cs
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Assets/GameController.cs
+    projectPath: Assets/GameController.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -40,219 +46,141 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/Artifacts/06/06ec618b9607c91865be7c0176a9dacb
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/06/06ec618b9607c91865be7c0176a9dacb
-    projectPath: Library/Artifacts/06/06ec618b9607c91865be7c0176a9dacb
+  - path: Library/Artifacts/08/0896127e3111f9ec1cd27938dc289258
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/08/0896127e3111f9ec1cd27938dc289258
+    projectPath: Library/Artifacts/08/0896127e3111f9ec1cd27938dc289258
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/17/179e74a990203111fcc3b62a916d9fca
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/17/179e74a990203111fcc3b62a916d9fca
-    projectPath: Library/Artifacts/17/179e74a990203111fcc3b62a916d9fca
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/08/08ef27ba00a5216034ed450af7611132
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/08/08ef27ba00a5216034ed450af7611132
+    projectPath: Library/Artifacts/08/08ef27ba00a5216034ed450af7611132
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/18/18af819b91b6cc89169672326ad80d30
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/18/18af819b91b6cc89169672326ad80d30
-    projectPath: Library/Artifacts/18/18af819b91b6cc89169672326ad80d30
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/10/1025df3dfa3e34c0a548253bbc476c94
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/10/1025df3dfa3e34c0a548253bbc476c94
+    projectPath: Library/Artifacts/10/1025df3dfa3e34c0a548253bbc476c94
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/22/22197f9bc553fd3f302b5d627b8dfb11
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/22/22197f9bc553fd3f302b5d627b8dfb11
-    projectPath: Library/Artifacts/22/22197f9bc553fd3f302b5d627b8dfb11
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/14/14aa16fcb317a86daef7fe8bd1b2eb99
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/14/14aa16fcb317a86daef7fe8bd1b2eb99
+    projectPath: Library/Artifacts/14/14aa16fcb317a86daef7fe8bd1b2eb99
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/26/2632e405afd3b67a469e006cb2570ff5
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/26/2632e405afd3b67a469e006cb2570ff5
-    projectPath: Library/Artifacts/26/2632e405afd3b67a469e006cb2570ff5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/19/19a213e58e99998c8da5e382ef3aca44
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/19/19a213e58e99998c8da5e382ef3aca44
+    projectPath: Library/Artifacts/19/19a213e58e99998c8da5e382ef3aca44
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/2d/2d15f3fed53608bcc84e8d9c700e662d
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/2d/2d15f3fed53608bcc84e8d9c700e662d
-    projectPath: Library/Artifacts/2d/2d15f3fed53608bcc84e8d9c700e662d
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/43/43443874997e0f48a5a78f4cacf7474c
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/43/43443874997e0f48a5a78f4cacf7474c
+    projectPath: Library/Artifacts/43/43443874997e0f48a5a78f4cacf7474c
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/2f/2fbca2a81f444a6d283b939d2a21fe02
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/2f/2fbca2a81f444a6d283b939d2a21fe02
-    projectPath: Library/Artifacts/2f/2fbca2a81f444a6d283b939d2a21fe02
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5d/5d2a0eea1048bf5aa5177a3cfb024678
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/5d/5d2a0eea1048bf5aa5177a3cfb024678
+    projectPath: Library/Artifacts/5d/5d2a0eea1048bf5aa5177a3cfb024678
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/33/33b50141c7df4ec166d2ccdb257a6829
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/33/33b50141c7df4ec166d2ccdb257a6829
-    projectPath: Library/Artifacts/33/33b50141c7df4ec166d2ccdb257a6829
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/38/389c01371e9fe09ab443f7fb47812252
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/38/389c01371e9fe09ab443f7fb47812252
-    projectPath: Library/Artifacts/38/389c01371e9fe09ab443f7fb47812252
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/39/39f4f2e870314751b37c2219b7a6e88e
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/39/39f4f2e870314751b37c2219b7a6e88e
-    projectPath: Library/Artifacts/39/39f4f2e870314751b37c2219b7a6e88e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/3c/3cfc45150ecbc6cb84526ca0a72aa2ef
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/3c/3cfc45150ecbc6cb84526ca0a72aa2ef
-    projectPath: Library/Artifacts/3c/3cfc45150ecbc6cb84526ca0a72aa2ef
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/51/51dc83c73f197af9c69d030f7c727280
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/51/51dc83c73f197af9c69d030f7c727280
-    projectPath: Library/Artifacts/51/51dc83c73f197af9c69d030f7c727280
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/53/5366117903484cd72ac5f9fadc018249
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/53/5366117903484cd72ac5f9fadc018249
-    projectPath: Library/Artifacts/53/5366117903484cd72ac5f9fadc018249
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/55/554f5bb78700d2b32d9013c2a7f5d231
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/55/554f5bb78700d2b32d9013c2a7f5d231
-    projectPath: Library/Artifacts/55/554f5bb78700d2b32d9013c2a7f5d231
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/Artifacts/5d/5d9d82345ac1bab1d2853a5ea1385807
     fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/5d/5d9d82345ac1bab1d2853a5ea1385807
     projectPath: Library/Artifacts/5d/5d9d82345ac1bab1d2853a5ea1385807
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/5f/5f70d0415c17db40de3811ef2aa0cfe6
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/5f/5f70d0415c17db40de3811ef2aa0cfe6
-    projectPath: Library/Artifacts/5f/5f70d0415c17db40de3811ef2aa0cfe6
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/6a/6a8abad95bd1d6d603c3b0abd9bf7231
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/6a/6a8abad95bd1d6d603c3b0abd9bf7231
+    projectPath: Library/Artifacts/6a/6a8abad95bd1d6d603c3b0abd9bf7231
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b4/b47600d1b1a33436f0fba025ba3d6c46
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/b4/b47600d1b1a33436f0fba025ba3d6c46
+    projectPath: Library/Artifacts/b4/b47600d1b1a33436f0fba025ba3d6c46
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ca/ca43b17e610bac62f7b3bf4e6e6228c5
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/ca/ca43b17e610bac62f7b3bf4e6e6228c5
+    projectPath: Library/Artifacts/ca/ca43b17e610bac62f7b3bf4e6e6228c5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e5/e53fb9a2cd64e78cb1584ad8c43d7997
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/e5/e53fb9a2cd64e78cb1584ad8c43d7997
+    projectPath: Library/Artifacts/e5/e53fb9a2cd64e78cb1584ad8c43d7997
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Bee/200b0aE.dag
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Bee/200b0aE.dag
+    projectPath: Library/Bee/200b0aE.dag
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/66/66b0f4b97ef5651e7485930988a97866
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/66/66b0f4b97ef5651e7485930988a97866
-    projectPath: Library/Artifacts/66/66b0f4b97ef5651e7485930988a97866
+    workTreeStatus: 3
+  - path: Library/Bee/200b0aE.dag.json
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Bee/200b0aE.dag.json
+    projectPath: Library/Bee/200b0aE.dag.json
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/6c/6c92498b194285a0bcd087f40393e2d5
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/6c/6c92498b194285a0bcd087f40393e2d5
-    projectPath: Library/Artifacts/6c/6c92498b194285a0bcd087f40393e2d5
+    workTreeStatus: 3
+  - path: Library/Bee/200b0aE.dag_derived
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Bee/200b0aE.dag_derived
+    projectPath: Library/Bee/200b0aE.dag_derived
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/6e/6e38eb7bf7a3c7d5c3cb19aa5781a361
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/6e/6e38eb7bf7a3c7d5c3cb19aa5781a361
-    projectPath: Library/Artifacts/6e/6e38eb7bf7a3c7d5c3cb19aa5781a361
+    workTreeStatus: 3
+  - path: Library/Bee/200b0aE-inputdata.json
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Bee/200b0aE-inputdata.json
+    projectPath: Library/Bee/200b0aE-inputdata.json
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/6e/6e73b98645efc7461977036a72dbcf5a
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/6e/6e73b98645efc7461977036a72dbcf5a
-    projectPath: Library/Artifacts/6e/6e73b98645efc7461977036a72dbcf5a
+    workTreeStatus: 3
+  - path: Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll
+    projectPath: Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/74/74eba25808fa6106f9587243207cd0c5
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/74/74eba25808fa6106f9587243207cd0c5
-    projectPath: Library/Artifacts/74/74eba25808fa6106f9587243207cd0c5
+    workTreeStatus: 3
+  - path: Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.ref.dll
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.ref.dll
+    projectPath: Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.ref.dll
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/7f/7f03fdcc3d9da5f619bfce5b94a56d80
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/7f/7f03fdcc3d9da5f619bfce5b94a56d80
-    projectPath: Library/Artifacts/7f/7f03fdcc3d9da5f619bfce5b94a56d80
+    workTreeStatus: 3
+  - path: Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.rsp
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.rsp
+    projectPath: Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.rsp
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/8b/8bb13b31e4b6f1efa24aca5a49bd5ed5
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/8b/8bb13b31e4b6f1efa24aca5a49bd5ed5
-    projectPath: Library/Artifacts/8b/8bb13b31e4b6f1efa24aca5a49bd5ed5
+    workTreeStatus: 3
+  - path: Library/Bee/artifacts/200b0aE.dag/post-processed/Assembly-CSharp.dll
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Bee/artifacts/200b0aE.dag/post-processed/Assembly-CSharp.dll
+    projectPath: Library/Bee/artifacts/200b0aE.dag/post-processed/Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/8d/8d8f86181e5c934477852e983dffcbcf
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/8d/8d8f86181e5c934477852e983dffcbcf
-    projectPath: Library/Artifacts/8d/8d8f86181e5c934477852e983dffcbcf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/a5/a5f293f4daf15e6f9cf836f94fbaa0de
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/a5/a5f293f4daf15e6f9cf836f94fbaa0de
-    projectPath: Library/Artifacts/a5/a5f293f4daf15e6f9cf836f94fbaa0de
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/b6/b619a5184ddd2dd0bf20258dc8fa66af
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/b6/b619a5184ddd2dd0bf20258dc8fa66af
-    projectPath: Library/Artifacts/b6/b619a5184ddd2dd0bf20258dc8fa66af
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/b9/b943a285f5745c9ba9ae93ae70dd8141
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/b9/b943a285f5745c9ba9ae93ae70dd8141
-    projectPath: Library/Artifacts/b9/b943a285f5745c9ba9ae93ae70dd8141
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/c3/c3c7c17843a0bc8d8d502f00347ade9c
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/c3/c3c7c17843a0bc8d8d502f00347ade9c
-    projectPath: Library/Artifacts/c3/c3c7c17843a0bc8d8d502f00347ade9c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/c9/c9c8407f3f4f4e1446982c82954c6844
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/c9/c9c8407f3f4f4e1446982c82954c6844
-    projectPath: Library/Artifacts/c9/c9c8407f3f4f4e1446982c82954c6844
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/cd/cd66cc7238cf6aa84a760221ecc4a53c
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/cd/cd66cc7238cf6aa84a760221ecc4a53c
-    projectPath: Library/Artifacts/cd/cd66cc7238cf6aa84a760221ecc4a53c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/d0/d02f2c4454071769c7037b0c17abdb7e
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/d0/d02f2c4454071769c7037b0c17abdb7e
-    projectPath: Library/Artifacts/d0/d02f2c4454071769c7037b0c17abdb7e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/e4/e42e66e359ce5a4b03dd032476ed31e3
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/e4/e42e66e359ce5a4b03dd032476ed31e3
-    projectPath: Library/Artifacts/e4/e42e66e359ce5a4b03dd032476ed31e3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/eb/ebea0ba2253d50ca0870cea8ea67affe
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/eb/ebea0ba2253d50ca0870cea8ea67affe
-    projectPath: Library/Artifacts/eb/ebea0ba2253d50ca0870cea8ea67affe
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/f7/f792c72fd5e8d758e3baabf96929f477
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/f7/f792c72fd5e8d758e3baabf96929f477
-    projectPath: Library/Artifacts/f7/f792c72fd5e8d758e3baabf96929f477
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/f8/f8b013ef24fea2a1cb93de3fd50498a5
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Artifacts/f8/f8b013ef24fea2a1cb93de3fd50498a5
-    projectPath: Library/Artifacts/f8/f8b013ef24fea2a1cb93de3fd50498a5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: Library/Bee/backend_profiler0.traceevents
     fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Bee/backend_profiler0.traceevents
     projectPath: Library/Bee/backend_profiler0.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Bee/backend_profiler1.traceevents
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Bee/backend_profiler1.traceevents
+    projectPath: Library/Bee/backend_profiler1.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Bee/buildprogram0.traceevents
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/Bee/buildprogram0.traceevents
+    projectPath: Library/Bee/buildprogram0.traceevents
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -286,9 +214,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/BurstCache/JIT/Hashes/Unity.2D.Animation.Editor.bhc
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/BurstCache/JIT/Hashes/Unity.2D.Animation.Editor.bhc
+    projectPath: Library/BurstCache/JIT/Hashes/Unity.2D.Animation.Editor.bhc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/BurstCache/JIT/Hashes/Unity.2D.Common.Runtime.bhc
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/BurstCache/JIT/Hashes/Unity.2D.Common.Runtime.bhc
+    projectPath: Library/BurstCache/JIT/Hashes/Unity.2D.Common.Runtime.bhc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/BurstCache/JIT/Hashes/Unity.2D.SpriteShape.Runtime.bhc
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/BurstCache/JIT/Hashes/Unity.2D.SpriteShape.Runtime.bhc
+    projectPath: Library/BurstCache/JIT/Hashes/Unity.2D.SpriteShape.Runtime.bhc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/BurstCache/JIT/Hashes/Unity.Burst.bhc
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/BurstCache/JIT/Hashes/Unity.Burst.bhc
+    projectPath: Library/BurstCache/JIT/Hashes/Unity.Burst.bhc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/BurstCache/JIT/Hashes/Unity.Mathematics.bhc
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/BurstCache/JIT/Hashes/Unity.Mathematics.bhc
+    projectPath: Library/BurstCache/JIT/Hashes/Unity.Mathematics.bhc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/EditorInstance.json
     fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/EditorInstance.json
     projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/expandedItems
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/expandedItems
+    projectPath: Library/expandedItems
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -316,15 +280,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/GridBrush/UnityEditor.Tilemaps.GridBrush.asset
-    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/GridBrush/UnityEditor.Tilemaps.GridBrush.asset
-    projectPath: Library/GridBrush/UnityEditor.Tilemaps.GridBrush.asset
+  - path: Library/PackageManager/ProjectCache
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/PackageManager/ProjectCache
+    projectPath: Library/PackageManager/ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PackageManager/ProjectCache.md5
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/PackageManager/ProjectCache.md5
+    projectPath: Library/PackageManager/ProjectCache.md5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library/SceneVisibilityState.asset
     fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/SceneVisibilityState.asset
     projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/chourensei/Desktop/Unity/mathgoroku_public/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

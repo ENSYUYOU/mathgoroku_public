@@ -372,6 +372,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/CameraControl.cs"
 "Assets/CameraControl2.cs"
+"Assets/FruitController.cs"
 "Assets/GameController.cs"
 "Assets/ProblemController.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
